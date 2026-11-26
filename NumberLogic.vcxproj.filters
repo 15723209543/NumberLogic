@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0"><ItemGroup><Filter Include="源文件" /><Filter Include="头文件" /></ItemGroup><ItemGroup><ClCompile Include="src\main.cpp"><Filter>源文件</Filter></ClCompile><ClCompile Include="src\UI.cpp"><Filter>源文件</Filter></ClCompile><ClCompile Include="src\AI.cpp"><Filter>源文件</Filter></ClCompile></ItemGroup><ItemGroup><ClInclude Include="src\UI.h"><Filter>头文件</Filter></ClInclude><ClInclude Include="src\AI.h"><Filter>头文件</Filter></ClInclude></ItemGroup></Project>
